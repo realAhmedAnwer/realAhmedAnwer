@@ -6,10 +6,8 @@
 
   <br/>
 
-  [![Portfolio](https://img.shields.io/badge/Portfolio-%23667eea.svg?style=for-the-badge)](https://ahmedanwer.com)
-  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge)](mailto:contact@ahmedanwer.com)
+  [![Website](https://img.shields.io/badge/Website-%239b59b6.svg?style=for-the-badge)](https://ahmedanwer.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge)](https://www.linkedin.com/in/realahmedanwer)
-
 
 </div>
 
@@ -21,6 +19,7 @@
 var ahmed = new Developer
 {
     Name           = "Ahmed Anwer",
+    Email          = "contact@ahmedanwer.com",
     Location       = "Alexandria, Egypt",
     Role           = "Software Engineer | Full Stack .NET Developer",
     CurrentMission = "Trying to program my own life",
